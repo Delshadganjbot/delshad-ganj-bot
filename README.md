@@ -1,0 +1,1 @@
+# delshad-ganj-bot
