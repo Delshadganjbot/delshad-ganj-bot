@@ -1,1 +1,1 @@
-delete duplicate main.p
+delete main.p
